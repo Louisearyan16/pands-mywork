@@ -1,0 +1,4 @@
+This is a text file, the number of e's contained within this text file will be determined
+by a program that reads in a text file and outputs the number of e's it contains. 
+Refer to es.py
+Author: Louise Ryan
