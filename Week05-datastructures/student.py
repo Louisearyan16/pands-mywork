@@ -5,7 +5,7 @@ student = {"name":"Mary",
            "modules": [
                {
                    "coursename":"Programming",
-                   "grade": 45
+                   "grade":45
                },
                {
                    "coursename":"History",
